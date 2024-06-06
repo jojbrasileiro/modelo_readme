@@ -75,7 +75,6 @@ Nossos membros:
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
         <img src="https://avatars.githubusercontent.com/u/129531879?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
           <b>Lucas de Souza</b>
@@ -83,7 +82,6 @@ Nossos membros:
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
         <img src="https://avatars.githubusercontent.com/u/107281841?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
         <sub>
           <b>João Calixto</b>
