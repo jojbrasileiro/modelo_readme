@@ -1,4 +1,10 @@
-# Site ASSC
+# Projeto de Desenvolvimento do Site para a ASSC
+
+![GitHub repo size](https://img.shields.io/github/repo-size/calixtojp/projetoWeb?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/calixtojp/projetoWeb?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/calixtojp/projetoWeb?style=for-the-badge)
+![GitHub open issues](https://img.shields.io/github/issues/calixtojp/projetoWeb?style=for-the-badge)
+
 
 <img src="images.jpg" alt="Exemplo imagem">
 
@@ -11,58 +17,32 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Sprint 1
 - [x] Sprint 2
 - [x] Sprint 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+- [x] Sprint 4
+- [x] Sprint 5
+- [ ] Sprint 6
 
-## 💻 Pré-requisitos
+## 💻 Depedencias de software e ferramentas utilizadas
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Para a confecção do projeto foram utilizadas as seguintes ferramentas, incluindo linguagens e frameworks:
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+- Linguagens: `HTML, CSS, Javascript, SQL`
+- Frameworks: `Bootstrap e React`.
+- Mais ferramenta: `Github, discord, Trello`.
 
-## 🚀 Instalando <nome_do_projeto>
+## 📚 Disciplinas
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+O projeto reprensenta o profundo entendimento e aprendizado das materias de Engenharia de Software e Desenvolvimento Web, tendo sido desenvolvido com auxílio das professoras:
 
-Linux e macOS:
+Engenharia de Software:
+- Docente: Rosana Teresinha Vaccare Braga
+- Docente: Simone do Rocio Senger de Souza
 
-```
-<comando_de_instalação>
-```
+Desenvolvimento Web:
+- Docente: Bruna Carolina Rodrigues da Cunha
 
-Windows:
+## 🤝 Membros da equipe
 
-```
-<comando_de_instalação>
-```
-
-## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
-
-```
-<exemplo_de_uso>
-```
-
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
-
-## 📫 Contribuindo para <nome_do_projeto>
-
-Para contribuir com <nome_do_projeto>, siga estas etapas:
-
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
-5. Crie a solicitação de pull.
-
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Nossos membros:
 
 <table>
   <tr>
@@ -74,28 +54,41 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
+        <img src="https://media.licdn.com/dms/image/D4D03AQGVJJHhcpU74Q/profile-displayphoto-shrink_800_800/0/1701195269940?e=1723075200&v=beta&t=fOa6F4OJew7VkKZJJCc63dJ5KUqQzvZdTt5pjXANpUQ" width="100px;" alt="Foto do Gurizao no GitHub"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>João Brasileiro</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/102184387?v=4" width="100px;" alt="Foto do Gurizao no GitHub"/><br>
+        <sub>
+          <b>Vicenzo D´Arezzo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/83601712?v=4" width="100px;" alt="Foto do Gurizao no GitHub"/><br>
+        <sub>
+          <b>Nicholas Yudi</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#" title="defina o titulo do link">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <img src="https://avatars.githubusercontent.com/u/129531879?v=4" width="100px;" alt="Foto do Mark Zuckerberg"/><br>
         <sub>
-          <b>Steve Jobs</b>
+          <b>Lucas de Souza</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" title="defina o titulo do link">
+        <img src="https://avatars.githubusercontent.com/u/107281841?v=4" width="100px;" alt="Foto do Steve Jobs"/><br>
+        <sub>
+          <b>João Calixto</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
-
-## 😄 Seja um dos contribuidores
-
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
