@@ -2,15 +2,15 @@
 
 <img src="images.jpg" alt="Exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Nosso projeto envolve a criação de um site para a Associação de Surdos de São Carlos, destinado a promover a inclusão e a comunicação acessível. A plataforma fornecerá informações, recursos e suporte para a comunidade surda, facilitando a integração social e o acesso a serviços essenciais. Além disso, incluirá conteúdos educativos e eventos para fortalecer a interação entre membros e a sociedade.
 
-### Ajustes e melhorias
+### Sprints
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nos seguintes sprints:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
+- [x] Sprint 1
+- [x] Sprint 2
+- [x] Sprint 3
 - [ ] Tarefa 4
 - [ ] Tarefa 5
 
@@ -67,10 +67,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="defina o titulo do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Iuri Silva no GitHub"/><br>
+        <img src="[https://avatars3.githubusercontent.com/u/31936044](https://avatars.githubusercontent.com/u/72415526?v=4)" width="100px;" alt="Foto do Gurizao no GitHub"/><br>
         <sub>
-          <b>Iuri Silva</b>
+          <b>Luiz shulz</b>
         </sub>
       </a>
     </td>
