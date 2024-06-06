@@ -67,7 +67,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-        <img src="[https://avatars3.githubusercontent.com/u/31936044](https://avatars.githubusercontent.com/u/72415526?v=4)" width="100px;" alt="Foto do Gurizao no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/72415526?v=4" width="100px;" alt="Foto do Gurizao no GitHub"/><br>
         <sub>
           <b>Luiz shulz</b>
         </sub>
