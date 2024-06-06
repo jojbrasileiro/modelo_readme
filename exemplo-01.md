@@ -1,11 +1,5 @@
 # Site ASSC
 
-![GitHub repo size](https://img.shields.io/github/repo-size/calixtojp/projetoWeb?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/calixtojp/projetoWeb?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/calixtojp/projetoWeb?style=for-the-badge)
-![GitHub open issues](https://img.shields.io/github/issues/calixtojp/projetoWeb?style=for-the-badge)
-![GitHub open pull requests](https://img.shields.io/github/issues-pr/calixtojp/projetoWeb?style=for-the-badge)
-
 <img src="imagem.png" alt="Exemplo imagem">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
